@@ -1,4 +1,4 @@
-```markdown
+
 # MLOps Course
 
 ## Hands-On Practice Guide
